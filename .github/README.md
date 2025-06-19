@@ -27,9 +27,7 @@
 <a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
----
-
-## 🖇 VPS Deployment
+### 🖇 VPS Deployment
 
 1. **Upgrade & Update:**
    ```bash
